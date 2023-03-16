@@ -1,3 +1,3 @@
 # rezzedup.github.io
-My very own github.io page
-;D
+
+301 Moved Permanently (... to my profile)
